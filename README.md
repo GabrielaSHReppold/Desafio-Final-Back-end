@@ -1,5 +1,5 @@
 Lista de Recados - Aplicação
-Este é um projeto desenvolvido como parte do curso da Growdev, proposto pela Professora Fayra. A aplicação é uma Lista de Recados (To-Do List) com funcionalidades de autenticação de usuários e gerenciamento de mensagens.
+Este é um projeto desenvolvido como parte do curso da Growdev, proposto pela Professora Fayra. A aplicação é uma Lista de Recados com funcionalidades de autenticação de usuários e gerenciamento de mensagens.
 
 Funcionalidades Principais
 Registro de Usuários
@@ -38,19 +38,11 @@ Exclui uma mensagem.
 
 Requisitos: ID da mensagem a ser excluída.
 
-Executando o Servidor
-Para rodar o servidor localmente, execute npm start ou yarn start. Certifique-se de instalar as dependências com npm install ou yarn install antes de iniciar o servidor.
-
-O servidor estará disponível em http://localhost:9999. Certifique-se de ajustar a porta conforme necessário.
-
-Dependências
 Express.js: Criação e gerenciamento de rotas.
 Bcrypt.js: Criptografia de senhas.
 Body-parser: Processamento de dados recebidos.
 
 
-
-
-Link do github:
+Link do github:https://github.com/GabrielaSHReppold/Desafio-Final-Back-end/tree/main
 Acesse a documentação:https://documenter.getpostman.com/view/34175927/2sA3JQ5fKQ
 Link da API: https://desafio-final-back-end.onrender.com 
